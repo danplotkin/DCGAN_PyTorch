@@ -8,3 +8,6 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 
 The current implementation uses the LFW (Labeled Faces in the Wild) dataset from the `torchvision.datasets` library. If you want to use a different dataset, make sure to modify the data loading code accordingly.
 
+## Source Code
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/DCGAN_PyTorch/blob/main/DCGAN.ipynb)

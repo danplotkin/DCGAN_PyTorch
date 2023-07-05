@@ -1,1 +1,1 @@
-# Deep Convolution Generative Adverserial Network (DCGAN) in PyTorch
+# Deep Convolution GAN (DCGAN) in PyTorch

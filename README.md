@@ -6,7 +6,7 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 
 ## Prepare your dataset
 
-The current implementation uses the CelebA dataset from the `torchvision.datasets` library. If you want to use a different dataset, make sure to modify the data loading code accordingly.
+The current implementation uses the CelebA dataset from [this link](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
 ## Source Code
 

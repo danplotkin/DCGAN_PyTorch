@@ -6,7 +6,7 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 
 ## Prepare your dataset
 
-The current implementation uses the CelebA dataset from [this link](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+The current implementation uses the CelebA dataset from [this link](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). In the **Unzip Data** section of my notebook, replace my relative path with your path of the dataset.
 
 ## Source Code
 
